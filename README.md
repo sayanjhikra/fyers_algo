@@ -1,4 +1,5 @@
 Fyers API login and season generation.
+
 ** This is under development project. You can contribute on it. You can create. an algorithmic trading eith it. **
 
 ====  USING DETAILS =====
