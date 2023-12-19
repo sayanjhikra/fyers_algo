@@ -5,7 +5,7 @@ import unix_time as ut
 
 # Initialize the FyersModel instance with your client_id, access_token, and enable async mode
 fyers = fyersModel.FyersModel(client_id=login_2.client_id, token=login_2.access_token(
-), is_async=False, log_path="C:/pythonProjects/fyers/fyers_log")
+), is_async=False, log_path="fyers_log")
 
 
 # ================== Order related functions ===================
