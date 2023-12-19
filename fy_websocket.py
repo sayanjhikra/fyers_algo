@@ -40,7 +40,7 @@ def onopen():
 
 fyers = data_ws.FyersDataSocket(
     access_token=login_2.access_token(),
-    log_path="C:/pythonProjects/fyers/fyers_log",
+    log_path="fyers_log",
     litemode=False,
     write_to_file=False,
     reconnect=True,
