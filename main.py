@@ -11,6 +11,6 @@ range_days = 1200
 
 
 candles = flib.get_candle_data(d_symbol, d_timeFrame, range_days)
-
+print(candles)
 f_name = symbol_name+"-"+str(d_timeFrame)+"-"+str(range_days)+"days"
 dlib.store_data(f_name, candles)
