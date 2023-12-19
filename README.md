@@ -1,4 +1,4 @@
 Fyers API login and season generation.
 
-Just generate a user key by file and:
+Just generate a user.py file and:
 
